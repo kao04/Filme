@@ -8,6 +8,10 @@
 
 body {
     background-color: #f3e5d7;
+    background-image: url("./juju.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 body>div {
