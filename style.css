@@ -6,13 +6,16 @@
     -webkit-font-smoothing: antialiased;
 }
 
+.logo {
+    width: 200px;
+}
+
 body {
-    background-color: #f3e5d7;
-    background-image: url(".jpg");
+    background-image: url("./fundo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-}
+  }
 
 body>div {
     background-color: #FFF;
