@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url("./fundo.jpg");
+    background-color: #7a284e;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
